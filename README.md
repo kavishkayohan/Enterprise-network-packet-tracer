@@ -20,7 +20,6 @@
 - HR PC (10.10.10.x) -> ping 10.10.20.1 : 0% loss - Success
 - HR PC -> ping 10.10.100.10 : Success (Inter-VLAN Routing Working)
 
-### Screenshots
-Ping results attached.
 
-Author: [ඔයාගේ නම]
+
+
